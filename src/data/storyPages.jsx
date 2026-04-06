@@ -12,6 +12,12 @@ export const storyPages = [
     highlight: "I thought he was going to leave me, but he took me with him! (title says: I will miss You)",
   },
   {
+    title: "02. First Contact [1.5/3]",
+    text: "He could only remember this vaguely, but in 1st grade in elementary school, his teacher saw him engrossed in Kodu Game Lab, and signed him up for a game dev competition. This was his first ever exposure to game development.",
+    image: "/images/kodu.png",
+    highlight: "Thinking back, this was probably the moment that sparked his interest in game development.",
+  },
+  {
     title: "03. Filmmaking [2/3]",
     text: (
     <>
