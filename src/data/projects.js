@@ -13,7 +13,7 @@ export const projects = [
       "Built bot AI behaviors to have human decision-making at each turn.",
       "Built the environment to feel immersive in AR."
     ],
-    stack: ["Unity", "C#", "Meta Quest", "MRUK"],
+    stack: ["Unity", "C#", "Meta Quest", "MRUK", "AR/VR"],
   },
   {
     id: 2,
