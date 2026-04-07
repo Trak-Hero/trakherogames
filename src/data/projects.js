@@ -69,7 +69,7 @@ export const projects = [
     title: "REMEMBER ME",
     year: "Concept",
     subtitle: "Procedurally-generated Environment Experiment",
-    heroVideo: "/videos/dementia.mov",
+    heroVideo: "/videos/dementialow.mov",
     description:
       "A study on procedural generation as a way to evoke the feeling of memory loss and dementia. The environment is built from a collection of modular assets that are randomly assembled each time user press a key, creating a sense of familiarity mixed with disorientation.",
     details: [
@@ -85,7 +85,7 @@ export const projects = [
     title: "SNOW TOWN",
     year: "2025",
     subtitle: "Winter Wonderland",
-    heroVideo: "/videos/snow-town.mp4",
+    heroVideo: "/videos/snowtown.mp4",
     description:
       "A serene winter-themed experience where players explore a magical snowy landscape.",
     details: [
