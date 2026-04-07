@@ -54,7 +54,7 @@ export const storyPages = [
     title: "04. A Path Less Traveled",
     text: "All his life, Trak loved all these passions and hobbies, but pressure from society made his scared to make them more than just a side hobby. But something changed, and he felt a determination to pursue Game Development as a career. When he made a game for his previous internship office as just a side project, he realized how much joy it brings when he see people in awe of the world he created. It was then that he decided to pursue game development as a career, and make games that can be meaningful to others.",
     image: "/images/croc.JPG",
-    highlight: "Trak and his team receiving award from the VGML class with professor Cheng",
+    highlight: "Young Trak riding a crocodile!",
   },
   {
     title: "End: Guidance",
