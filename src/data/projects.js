@@ -83,16 +83,16 @@ export const projects = [
     id: 6,
     slug: "snow-town",
     title: "SNOW TOWN",
-    year: "2025",
+    year: "Concept",
     subtitle: "Winter Wonderland",
     heroVideo: "/videos/snowtown.mp4",
     description:
-      "A serene winter-themed experience where players explore a magical snowy landscape.",
+      "An AR to VR experience that transforms your surroundings into a snowglobe. You can interact with the environment by changing the vinyl records, where each song changes the atmosphere. You can also talk to all of the snowman characters, which can speak with you in any language and have conversations.",
     details: [
-      "Features a calming atmosphere and peaceful exploration.",
-      "Incorporates seasonal aesthetics and environmental storytelling.",
-      "Showcases the studio's ability to create immersive, emotionally resonant worlds."
+      "Features dynamic environment based on the grab interaction of the vinyl records.",
+      "Snowglobe LLM that can talk and listen to the player.",
+      "Transitions between AR and VR modes."
     ],
-    stack: ["Unity", "C#", "XR", "Narrative Design"],
+    stack: ["Unity", "C#", "XR", "LLM", "Meta Quest"],
   }
 ];
