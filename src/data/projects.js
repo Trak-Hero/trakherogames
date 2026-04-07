@@ -69,7 +69,7 @@ export const projects = [
     title: "REMEMBER ME",
     year: "Concept",
     subtitle: "Procedurally-generated Environment Experiment",
-    heroVideo: "/videos/dementialow.mov",
+    heroVideo: "/videos/dementialow.mp4",
     description:
       "A study on procedural generation as a way to evoke the feeling of memory loss and dementia. The environment is built from a collection of modular assets that are randomly assembled each time user press a key, creating a sense of familiarity mixed with disorientation.",
     details: [
